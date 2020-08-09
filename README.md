@@ -7,4 +7,4 @@ I'm interesting in:
  - 🎨 creative coding
  - 🔭 science communication
  
- Check out my projects at [LauraJael.com](http://laurajael.com/).
+ Check out my projects at [LauraJael.com](https://laurajael.com/).
