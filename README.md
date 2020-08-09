@@ -1,6 +1,6 @@
 ## Hi, I'm Laura! 🌱
 
-I'm interesting in:
+I'm interested in:
  - 📊 data visualization
  - 🗺️ cartography
  - 📰 digital journalism 
