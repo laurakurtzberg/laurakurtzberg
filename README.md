@@ -1,6 +1,6 @@
 ## Hi, I'm Laura! 🌱
 
-I'm interested in:
+I work in the overlapping space between journalism and technology. I'm interested in:
  - 📊 data visualization
  - 🗺️ cartography
  - 📰 digital journalism 
